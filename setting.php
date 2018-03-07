@@ -1,0 +1,9 @@
+<?php
+$server="192.168.0.148";
+$db="gakuyo";
+$user="dab";
+$pass="3306";
+$version="0.9d";
+$pgport=5432;
+$pchartfolder="./class/pchart2";
+?>

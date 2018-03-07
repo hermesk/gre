@@ -1,0 +1,202 @@
+body {
+    background: #d2b48c;
+    margin:0;
+    padding:0;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+.container {
+    padding: 16px;
+	text-align: center;
+}
+img.avatar {
+    width: 15%;
+    height: 15%;
+    border-radius: 80%;
+}
+#frm{
+	
+	margin-left: 35%;
+  margin-right: 35%;
+  background-color:#556B2F;
+	text-align: center;
+  border:solid maroon 4px;
+}
+#home {
+  cursor: pointer;
+  background-color:#d2b48c;
+  border-radius:15px;
+}
+
+input[type=text], input[type=password],select {
+    width: 100% auto;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    margin: 4px 5;
+   
+}
+span.password {
+    float: right;
+    padding-top: 16px;
+}
+#btnlg {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100% auto;
+}
+ #btnlg:hover{
+ 	opacity: 0.8;
+ 	background-color:maroon;
+ }
+
+ .cm{
+   background-color: #556B2F;
+   text-align: left;
+    margin-left: auto;
+   margin-right: auto;
+   width: 750px;
+   border:solid maroon 4px;
+
+
+ }
+
+
+ #csave:hover{
+ 	opacity: 1;
+ 	background-color:darkgreen;
+ }
+ .logo{
+    text-align: center;
+}
+.hder{
+
+    width: 50%;
+	margin-left: 25%;
+    margin-right: 25%;
+}
+
+.house{
+   background-color: #556B2F;  
+    margin-left: auto;
+   margin-right: auto;
+   width: 870px;
+   text-align: left;
+   border:solid maroon 4px;
+}
+.land{
+   background-color: #556B2F;  
+   margin-left: auto;
+   margin-right: auto;
+   width: 820px;
+   text-align: left;
+   border:solid maroon 4px;
+}
+
+#btnsave:hover,#reset:hover,#sbtn:hover{
+  background-color:darkgreen;
+}
+
+#sbtn:hover{
+	background-color:darkgreen;
+}
+#errMsg {
+  color:red;
+  text-align: center;
+}
+#savedMsg {
+  text-align: center;
+}
+.rct{
+  text-align: center;
+}
+
+.investorsr{
+   background-color:#556B2F;
+   margin-left: auto;
+   margin-right: auto;
+   width: 820px;
+   text-align: left;
+   border:solid maroon 4px;
+}
+
+.investors{
+   background-color:#556B2F;
+   margin-left: auto;
+   margin-right: auto;
+   width: 790px;
+   text-align: left;
+   border:solid maroon 4px;
+}
+#Sign-Up{
+   background-position:center; 
+   margin-left: auto;
+   margin-right: auto;
+   width: 700px;
+   border:solid maroon 4px;
+   background-color:#556B2F;
+     }
+   #changepassword{
+   background-position:center; 
+   margin-left: auto;
+   margin-right: auto;
+   width: 400px;
+   border:solid maroon 4px;
+
+   background-color:#556B2F;
+     }
+     #reg,#updateu{
+       border-radius:10px;
+       background-color:maroon;
+       padding: 10px 20px; 
+      background-color:#d2b48c;
+
+      }
+ #reg:hover,#updateu:hover{
+  background-color:darkgreen;
+}
+
+  #btnsave,#reset,#sbtn{
+    background-color:#d2b48c;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius:10px;
+
+      }
+ 
+ td {
+  padding-bottom:20px;
+   
+}
+.charges{
+   background-color: #556B2F;
+   text-align: left;
+  margin-left: auto;
+   margin-right: auto;
+   width: 800px;
+   border:solid maroon 4px;
+ }
+ .expenses{
+   background-color: #556B2F;
+   text-align: left;
+   margin-left: auto;
+   margin-right: auto;
+   width: 500px;
+   border:solid maroon 4px;
+ }
+  .properties{
+   background-color: #556B2F;
+   text-align: left;
+   margin-left: auto;
+   margin-right: auto;
+   width: 400px;
+   border:solid maroon 4px;
+ }
+
+
