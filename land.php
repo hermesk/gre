@@ -501,7 +501,11 @@ else {
 
          //submiting form
         $('form').submit( function(ev){
-
+          var plotno1=$('#plotn').val();
+          var plotno=$('#plotno :selected').text();
+          //var plotno = $( "#plotn option:selected" ).val();
+          alert(plotno);
+   
         if(!confirm ("Do You Want to Save?")){
         event.preventDefault();
         }
@@ -514,7 +518,7 @@ else {
         var size = $('#lsize').val();
         var cst = $('#cost').val();
         var cost = cst.replace(/,/g, '');
-        var plotno = $('#plotn').val();
+        var plotno = $( "#plotn option:selected" ).val();//$('#plotn').val();
         var ptype = $('#ptype').val();
         var trxtype = $('#trxtype').val();
         var mnt = $('#amnt').val(); 

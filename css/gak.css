@@ -59,9 +59,9 @@ span.password {
  .cm{
    background-color: #556B2F;
    text-align: left;
-    margin-left: auto;
-   margin-right: auto;
-   width: 750px;
+   margin-left: 25%;
+   margin-right: 25%;
+   width: 50%;
    border:solid maroon 4px;
 
 
@@ -84,22 +84,30 @@ span.password {
 
 .house{
    background-color: #556B2F;  
-    margin-left: auto;
-   margin-right: auto;
-   width: 870px;
+   margin-left: 15%;
+   margin-right: 15%;
+   width: 70%;
    text-align: left;
    border:solid maroon 4px;
 }
 .land{
    background-color: #556B2F;  
-   margin-left: auto;
-   margin-right: auto;
-   width: 820px;
+   margin-left: 18%;
+   margin-right: 18%;
+   width: 67%;
+   text-align: left;
+   border:solid maroon 4px;
+}
+.location{
+   background-color: #556B2F;  
+   margin-left: 30%;
+   margin-right: 30%;
+   width: 40%;
    text-align: left;
    border:solid maroon 4px;
 }
 
-#btnsave:hover,#reset:hover,#sbtn:hover{
+#btnsave:hover,#reset:hover{
   background-color:darkgreen;
 }
 
@@ -118,35 +126,35 @@ span.password {
 }
 
 .investorsr{
-   background-color:#556B2F;
-   margin-left: auto;
-   margin-right: auto;
-   width: 820px;
+   margin-left: 17%;
+  background-color:#556B2F;
+   margin-right: 17%;
+   width: 66%;
    text-align: left;
    border:solid maroon 4px;
 }
 
 .investors{
-   background-color:#556B2F;
-   margin-left: auto;
-   margin-right: auto;
-   width: 790px;
+   margin-left: 15%;
+  background-color:#556B2F;
+   margin-right: 15%;
+   width: 70%;
    text-align: left;
    border:solid maroon 4px;
 }
 #Sign-Up{
    background-position:center; 
-   margin-left: auto;
-   margin-right: auto;
-   width: 700px;
+   margin-left: 22%;
+   margin-right: 23%;
+   width: 55%;
    border:solid maroon 4px;
    background-color:#556B2F;
      }
    #changepassword{
    background-position:center; 
-   margin-left: auto;
-   margin-right: auto;
-   width: 400px;
+   margin-left: 35%;
+   margin-right: 35%;
+   width: 30%;
    border:solid maroon 4px;
 
    background-color:#556B2F;
@@ -177,25 +185,17 @@ span.password {
 .charges{
    background-color: #556B2F;
    text-align: left;
-  margin-left: auto;
-   margin-right: auto;
-   width: 800px;
+   margin-left: 19%;
+   margin-right: 19%;
+   width: 62%;
    border:solid maroon 4px;
  }
  .expenses{
    background-color: #556B2F;
    text-align: left;
-   margin-left: auto;
-   margin-right: auto;
-   width: 500px;
-   border:solid maroon 4px;
- }
-  .properties{
-   background-color: #556B2F;
-   text-align: left;
-   margin-left: auto;
-   margin-right: auto;
-   width: 400px;
+   margin-left: 28%;
+   margin-right: 27%;
+   width: 45%;
    border:solid maroon 4px;
  }
 
